@@ -1,13 +1,15 @@
-# Nigeria Flight Connectivity
+# Flight Connectivity Analysis
 
-This folder explores flight connectivity related to Nigeria using
-publicly available flight and airport datasets.
+This repository contains exploratory data analysis projects focused on
+understanding flight connectivity patterns using publicly available
+aviation datasets.
 
-Initial focus areas:
-- Flight volume patterns
-- Destination country distribution
-- Airline presence
-- Data completeness and limitations
+The goal of this project is to build strong foundations in:
+- Data analysis
+- Data cleaning and exploration
+- Insight communication using real-world datasets
 
-This analysis is exploratory and intended for learning purposes.
+This is a learning-in-progress repository and will be updated
+incrementally as new analyses are added.
+
 
