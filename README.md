@@ -9,7 +9,6 @@ The goal of this project is to build strong foundations in:
 - Data cleaning and exploration
 - Insight communication using real-world datasets
 
-This is a learning-in-progress repository and will be updated
-incrementally as new analyses are added.
+This is a learning-in-progress repository and will be updated once in a while as new analysis are added
 
 
