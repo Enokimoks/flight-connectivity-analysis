@@ -1,14 +1,21 @@
 # Flight Connectivity Analysis
 
-This repository contains exploratory data analysis projects focused on
-understanding flight connectivity patterns using publicly available
-aviation datasets.
+Analysis of flight connectivity patterns using real-world aviation data.
 
-The goal of this project is to build strong foundations in:
-- Data analysis
-- Data cleaning and exploration
-- Insight communication using real-world datasets
+This repository contains country-level analysis focused on routes,
+airline activity, and connectivity trends using publicly available datasets.
 
-This is a learning-in-progress repository and will be updated once in a while as new analysis are added
+## Structure
+- Each country has its own folder
+- Raw data is stored in `data/`
+- Analysis outputs are stored in `analysis/`
+
+## Tools
+- Microsoft Excel
+- Pivot tables
+
+## Goal
+To generate clear insights into flight connectivity and travel patterns.
+
 
 
